@@ -31,3 +31,5 @@ rm -rf - dekets a derectory
 1. esq - escape
 1. i - insert mode
 
+PRACTICING AGAIN AND AGAIN, WANT TO REMEMBER ALL THE COMMANDS FOR THE GIT
+
