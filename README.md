@@ -33,3 +33,5 @@ rm -rf - dekets a derectory
 
 PRACTICING AGAIN AND AGAIN, WANT TO REMEMBER ALL THE COMMANDS FOR THE GIT
 
+Tryting to practice as much as possible. I remember cd ~/Desktop (will move me to the Desktop directory); cd ~/Documents (will move me to the Documents directory); to create working directory we should start from pwd (statds for present working directory - tells me where I am)
+
